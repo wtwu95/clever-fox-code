@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Dr. Wentao Wu
+        吴文涛
       image:
         filename: welcome.jpg
       text: |
